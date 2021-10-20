@@ -1,0 +1,17 @@
+.body_backgorund 
+{
+    background-image:url(https://i.pinimg.com/originals/d2/c6/ac/d2c6acd9315d5a2ade2fc092936438da.gif);
+    background-position:center;
+    background-size:cover;
+}
+#myCanvas
+{
+    border-width:10px;
+    background-color: white; 
+    border-style:ridge;
+	border-color:darkviolet; 
+}
+.h1
+{
+    color:red;
+}
